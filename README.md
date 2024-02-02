@@ -5,20 +5,19 @@
 
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
+- 💬 Ask me about ...
 -->
-- 🔭 I’m currently working on
+🔭 I’m currently working on
 - Research Papers in the Domain of NLP, Computer Vision, Time Series Data Analysis and Forecasting, as well as Genrative Adversarial Networks and Image Segmentation.
 - Translating Research Papers into Applicable Code.
 </br>
-- 🌱 I’m currently learning
-- 
+🌱 I’m currently learning 
 - Complete Python Development (Django, REST API's, Application Deployment).
-
-- 🤔 I’m looking for -
+</br>
+🤔 I’m looking for -
 - Internships or collaborative project, python based projects or AI/ML enhanced solutions for industry problems.
-- 
-- 💬 Ask me about ...
-- 📫 How to reach me:
+</br>
+📫 How to reach me:
 - LinkedIn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
