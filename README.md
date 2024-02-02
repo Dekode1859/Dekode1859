@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on
 - Research Papers in the Domain of NLP, Computer Vision, Time Series Data Analysis and Forecasting, as well as Genrative Adversarial Networks and Image Segmentation.
 - Translating Research Papers into Applicable Code.
-
+</br>
 - 🌱 I’m currently learning
 - 
 - Complete Python Development (Django, REST API's, Application Deployment).
