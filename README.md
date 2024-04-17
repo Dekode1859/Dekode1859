@@ -12,7 +12,7 @@
 
 📫 **How to Reach Me:**
 - [LinkedIn](https://www.linkedin.com/in/pratik-dwivedi/)
-- Email - [prateekdwivedi30@gmail.com]
+- Email me - prateekdwivedi30@gmail.com
 
 ### Featured Repositories:
 1. [Basketball Dribbling Analysis](https://github.com/Dekode1859/Basketball-Dribbling-Analysis)
