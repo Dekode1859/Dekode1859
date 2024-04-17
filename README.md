@@ -1,16 +1,10 @@
 ### Hi, This is Pratik Dwivedi's GitHub Profile 👋
 
-🔭 **Currently Working On:**
+**Currently Working On:**
 - Research Papers in the Domain of NLP, Computer Vision, Time Series Data Analysis and Forecasting, as well as Generative Adversarial Networks and Image Segmentation.
-- Translating Research Papers into Applicable Code.
+- Implementing state-of-the art Deep Learning models from scratch and exploring Language Modeling, Image Generation (Diffusion and GANs), and Deployment of such models in a business environment. 
 
-🌱 **Currently Learning:**
-- Complete Python Development (Django, REST API's, Application Deployment).
-
-🤔 **Looking For:**
-- Internships or collaborative projects, Python-based projects, or AI/ML-enhanced solutions for industry problems.
-
-📫 **How to Reach Me:**
+**How to Reach Me:**
 - [LinkedIn](https://www.linkedin.com/in/pratik-dwivedi/)
 - Email me - prateekdwivedi30@gmail.com
 
