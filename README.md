@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **prateekdwivedi30@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e0Q4W92NFkfpdNISMKwE4dZiV6S0sEeI/view?usp=sharing](https://drive.google.com/file/d/1e0Q4W92NFkfpdNISMKwE4dZiV6S0sEeI/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1e0Q4W92NFkfpdNISMKwE4dZiV6S0sEeI/view?usp=sharing)
 
 - ⚡ Fun fact **I am a hardcore Pokemon player**
 
