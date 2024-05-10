@@ -64,7 +64,7 @@
 3. [Delhi AQI Time Series Analysis and Forecasting](https://github.com/Dekode1859/AQI-Forecasting-Liquid-Neural-Network)
    - Complete code written and used for the experiments conducted for my research paper on AQI forecasting of Delhi and Gurugram, which provides a comprehensive analysis of the techniques used for forecasting how time series data is modeled for forecasting, the repository containes the code for EDA of the Kaggle AQI Dataset, Model IMplementation of basic ML models and Advanced DL models, with hyperparamete tuning, and extensive comparison of performance and adaptiveness of each model.
    - Tech Stack - Python, statsmodels, scikit-learn, Tensorflow, Pytorch, Pytorch-lightning, NCPS (For Implementing Liquid Neural Networks), KerasTuner, Pandas, Numpy.
-4. [Transformer Attention Visualizer](https://github.com/Dekode1859/Transformer-Attention-Visualizer)
+4. [Transformer Attention Visualizer](https://github.com/Dekode1859/transformer-visualizer)
    - A project aimed at visualizing the attention mechanism in Transformer models for better understanding and interpretation of the translation process.
    - Implemented from Scratch in Pytorch, a Transformer model for language translation, and attention visualization
    - Users can input English sentences and observe how attention is allocated across different parts of the input and output sequences during translation, accesible through the [Web App](https://dekode-transformer-visualizer.hf.space).
