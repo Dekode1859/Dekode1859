@@ -1,75 +1,156 @@
-<h1 align="center">Hi 👋, I'm Pratik Dwivedi</h1>
-<h3 align="center">Researcher</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Pratik+Dwivedi!;AI+and+ML+Researcher...;" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on [GANs for Architectural Floor Layout Generation](https://github.com/Dekode1859/GANs-Floor-Plan-Generation)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849e8d1d5326.gif" width="400" alt="coding gif">
+</div>
 
-- 🌱 I’m currently learning **Transformers, Finetuning and Quantizing LLMs, JAX**
+## 🚀 About Me
 
+- 🔭 I'm currently working on [GANs for Architectural Floor Layout Generation](https://github.com/Dekode1859/GANs-Floor-Plan-Generation)
+- 🌱 I'm currently learning **Transformers, Finetuning and Quantizing LLMs, JAX**
 - 💬 Ask me about **ML, DL, NLP, CV, Generative AI, Application Development, AI Integration**
+- 📫 Reach me at: **prateekdwivedi30@gmail.com**
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1e0Q4W92NFkfpdNISMKwE4dZiV6S0sEeI/view?usp=sharing)
 
-- 📫 How to reach me **prateekdwivedi30@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1e0Q4W92NFkfpdNISMKwE4dZiV6S0sEeI/view?usp=sharing)
-
-- ⚡ Fun fact **I am a hardcore Pokemon player**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pratik-dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik-dwivedi" height="30" width="40" /></a>
+## 🌐 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/pratik-dwivedi" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pratik-dwivedi" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h4 align ='left'> AI/ML </h4>
-<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dekode1859&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dekode1859&layout=compact&theme=radical" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dekode1859&theme=radical" alt="Streak Stats" />
+</div>
+
+## 💻 Tech Stack
+
+<details open>
+<summary><b>🧠 AI/ML/DL</b></summary>
 <br>
-<h4 align="left"> Other </h4>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="opencv" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HuggingFace-FFBD00?style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface" /></a>
+</p>
+</details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dekode1859&show_icons=true&locale=en&layout=compact" alt="dekode1859" /></p>
+<details>
+<summary><b>🌐 Web Development</b></summary>
+<br>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /></a>
+</p>
+</details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dekode1859&show_icons=true&locale=en" alt="dekode1859" /></p>
+<details>
+<summary><b>📱 Mobile Development</b></summary>
+<br>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" /></a>
+</p>
+</details>
 
+<details>
+<summary><b>🗄️ Databases & Cloud</b></summary>
+<br>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" /></a>
+</p>
+</details>
 
-### Featured Repositories:
-1. [Basketball Dribbling Analysis](https://github.com/Dekode1859/Basketball-Dribbling-Analysis)
-   - Streamlit Application Powered by Open CV and YOLO model to Detect, Track and Analyze dribbling performance of a player from a video or a live video feed.
-   - Tech Stack - Streamlit, OpenCV, YOLO, Python, Roboflow, Google Colab (training YOLO).
-   
-2. [RAG Enabled HuggingFace LLM](https://github.com/Dekode1859/DocLLM)
-   - A chat application utilizing Zephyr-7b-beta LLM from HuggingFace and FAISS Vectorstore Database for retrival of relevant information from a given document to enable the LLM to answer queries regarding the document.
-   - Tech Stack - Python, HuggingFace, Streamlit, Langchain, PyPDF2.
+<details>
+<summary><b>🛠️ Other Tools & Languages</b></summary>
+<br>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender" /></a>
+</p>
+</details>
 
-3. [Delhi AQI Time Series Analysis and Forecasting](https://github.com/Dekode1859/AQI-Forecasting-Liquid-Neural-Network)
-   - Complete code written and used for the experiments conducted for my research paper on AQI forecasting of Delhi and Gurugram, which provides a comprehensive analysis of the techniques used for forecasting how time series data is modeled for forecasting, the repository containes the code for EDA of the Kaggle AQI Dataset, Model IMplementation of basic ML models and Advanced DL models, with hyperparamete tuning, and extensive comparison of performance and adaptiveness of each model.
-   - Tech Stack - Python, statsmodels, scikit-learn, Tensorflow, Pytorch, Pytorch-lightning, NCPS (For Implementing Liquid Neural Networks), KerasTuner, Pandas, Numpy.
-4. [Transformer Attention Visualizer](https://github.com/Dekode1859/transformer-visualizer)
-   - A project aimed at visualizing the attention mechanism in Transformer models for better understanding and interpretation of the translation process.
-   - Implemented from Scratch in Pytorch, a Transformer model for language translation, and attention visualization
-   - Users can input English sentences and observe how attention is allocated across different parts of the input and output sequences during translation, accesible through the [Web App](https://dekode-transformer-visualizer.hf.space).
-   - Tech Stack - Python, PyTorch, Hugging Face Datasets, Tokenizers, Pandas, Streamlit, Altair.
+## 🏆 Featured Projects
 
-5. [Generative Adversarial Networks for Floor Plan Generation](https://github.com/Dekode1859/GANs-Floor-Plan-Generation)
-   - Implementations of GANs for generating useful floor plan layouts with labeled partitions and doors and exploring various architectures used in GANs for image segmentation, another research topic that I am interested in.
+<div align="center">
+  <a href="https://github.com/Dekode1859/Basketball-Dribbling-Analysis">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dekode1859&repo=Basketball-Dribbling-Analysis&theme=radical" />
+  </a>
+  <a href="https://github.com/Dekode1859/DocLLM">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dekode1859&repo=DocLLM&theme=radical" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/Dekode1859/transformer-visualizer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dekode1859&repo=transformer-visualizer&theme=radical" />
+  </a>
+  <a href="https://github.com/Dekode1859/GANs-Floor-Plan-Generation">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dekode1859&repo=GANs-Floor-Plan-Generation&theme=radical" />
+  </a>
+</div>
 
+### 📌 Project Details:
+
+#### 1. [Basketball Dribbling Analysis](https://github.com/Dekode1859/Basketball-Dribbling-Analysis)
+- 🏀 Streamlit application powered by OpenCV and YOLO model
+- 🎯 Detects, tracks, and analyzes dribbling performance from video feeds
+- 🛠️ **Tech Stack:** Streamlit, OpenCV, YOLO, Python, Roboflow, Google Colab
+
+#### 2. [RAG Enabled HuggingFace LLM](https://github.com/Dekode1859/DocLLM)
+- 💬 Chat application utilizing Zephyr-7b-beta LLM 
+- 🔍 Uses FAISS Vectorstore for retrieval-augmented generation
+- 🛠️ **Tech Stack:** Python, HuggingFace, Streamlit, Langchain, PyPDF2
+
+#### 3. [Delhi AQI Time Series Analysis and Forecasting](https://github.com/Dekode1859/AQI-Forecasting-Liquid-Neural-Network)
+- 📊 Comprehensive analysis for AQI forecasting research paper
+- 🧠 Implementation of traditional ML models and advanced DL models
+- 🛠️ **Tech Stack:** Python, statsmodels, scikit-learn, TensorFlow, PyTorch, PyTorch-lightning, NCPS
+
+#### 4. [Transformer Attention Visualizer](https://github.com/Dekode1859/transformer-visualizer)
+- 👁️ Visualizes attention mechanism in Transformer models
+- 🔄 Built from scratch in PyTorch for translation tasks
+- 🔗 Try it: [Web App](https://dekode-transformer-visualizer.hf.space)
+- 🛠️ **Tech Stack:** Python, PyTorch, Hugging Face Datasets, Tokenizers, Streamlit, Altair
+
+#### 5. [Generative Adversarial Networks for Floor Plan Generation](https://github.com/Dekode1859/GANs-Floor-Plan-Generation)
+- 🏠 Implements GANs for generating floor plan layouts
+- 🔬 Research on various GAN architectures for image segmentation
+- 🛠️ **Tech Stack:** Python, PyTorch, TensorFlow
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dekode1859&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
+</div>
