@@ -18,6 +18,9 @@
   <a href="https://linkedin.com/in/pratik-dwivedi" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pratik-dwivedi" />
   </a>
+  <a href="https://huggingface.co/Dekode" target="blank">
+    <img src="https://img.shields.io/badge/🤗%20HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt="huggingface" />
+  </a>
 </p>
 
 ## 📊 GitHub Stats
@@ -147,9 +150,46 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dekode1859&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <h3>📈 Activity Graph</h3>
+  <img alt="Pratik's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dekode1859&theme=tokyo-night&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=dekode1859&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="github trophies" />
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=dekode1859&label=Profile%20Views&color=6&icon=5&pretty=true" alt="visitor counter" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kfb5q2pafrvwbm5k7vsahkwmaa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
+</div>
+
+## 🤗 HuggingFace Projects
+
+<div align="center">
+  <a href="https://huggingface.co/Dekode/phi-2-sql">
+    <img src="https://img.shields.io/badge/🤖%20Phi--2--SQL%20Model-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt="phi-2-sql" />
+  </a>
+  <a href="https://huggingface.co/spaces/Dekode/transformer-visualizer">
+    <img src="https://img.shields.io/badge/📈%20Transformer%20Visualizer-2EC866?style=for-the-badge&logo=huggingface&logoColor=white" alt="transformer-visualizer" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://huggingface.co/spaces/Dekode/Health-Chatbot">
+    <img src="https://img.shields.io/badge/📉%20Health%20Chatbot-5364e3?style=for-the-badge&logo=huggingface&logoColor=white" alt="health-chatbot" />
+  </a>
+  <a href="https://huggingface.co/spaces/Dekode/Mamba-Trainer">
+    <img src="https://img.shields.io/badge/🐢%20Mamba%20Trainer-00B96D?style=for-the-badge&logo=huggingface&logoColor=white" alt="mamba-trainer" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🔍 Check out all my <a href="https://huggingface.co/Dekode">HuggingFace projects</a></h3>
 </div>
