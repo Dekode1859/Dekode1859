@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Pratik+Dwivedi!;AI+and+ML+Researcher...;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Pratik+Dwivedi!;AI+and+ML+Developer+and+Researcher...;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,8 +9,7 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working on [GANs for Architectural Floor Layout Generation](https://github.com/Dekode1859/GANs-Floor-Plan-Generation)
-- 🌱 I'm currently learning **Transformers, Finetuning and Quantizing LLMs, JAX**
-- 💬 Ask me about **ML, DL, NLP, CV, Generative AI, Application Development, AI Integration**
+- 🌱 I'm currently learning **AI Agents, Finetuning LLMs, Image Generation, Diffusion**
 - 📫 Reach me at: **prateekdwivedi30@gmail.com**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1e0Q4W92NFkfpdNISMKwE4dZiV6S0sEeI/view?usp=sharing)
 
