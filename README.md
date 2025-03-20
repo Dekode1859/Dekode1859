@@ -193,3 +193,5 @@
 <div align="center">
   <h3>🔍 Check out all my <a href="https://huggingface.co/Dekode">HuggingFace projects</a></h3>
 </div>
+
+## [🎓 Certificates](certificates.md)
