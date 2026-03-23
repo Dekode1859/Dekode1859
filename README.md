@@ -7,7 +7,9 @@
 I build systems, not just models. I map out how complex systems will function, scale, and communicate before a single line of code is written. I focus on finding the cleanest, industry-standard ways to orchestrate cloud environments, structure databases, and manage tight resource constraints. Whether it's designing agentic workflows or architecting decentralized infrastructure, I prioritize production-grade reliability and maintainability.
 **Currently Architecting:**
 - **Decentralized Personal Cloud** — A self-hosted architecture running on Proxmox, utilizing a FastAPI gateway and Cloudflare tunnels for secure, scalable personal application hosting.
-**Reach me at:** **prateekdwivedi30@gmail.com**  
+
+**Reach me at:** **prateekdwivedi30@gmail.com**
+
 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1e0Q4W92NFkfpdNISMKwE4dZiV6S0sEeI/view?usp=sharing)
 
 ## Connect with me
