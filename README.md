@@ -2,12 +2,14 @@
   <h2>AI Systems Architect | Agentic Workflows & Production Infrastructure</h2>
   <p><i>Building bespoke, end-to-end AI systems—from local LLM orchestration to scalable cloud deployments.</i></p>
 </div>
+
 ## About Me
 I build systems, not just models. I map out how complex systems will function, scale, and communicate before a single line of code is written. I focus on finding the cleanest, industry-standard ways to orchestrate cloud environments, structure databases, and manage tight resource constraints. Whether it's designing agentic workflows or architecting decentralized infrastructure, I prioritize production-grade reliability and maintainability.
 **Currently Architecting:**
 - **Decentralized Personal Cloud** — A self-hosted architecture running on Proxmox, utilizing a FastAPI gateway and Cloudflare tunnels for secure, scalable personal application hosting.
 **Reach me at:** **prateekdwivedi30@gmail.com**  
 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1e0Q4W92NFkfpdNISMKwE4dZiV6S0sEeI/view?usp=sharing)
+
 ## Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/pratik-dwivedi" target="blank">
@@ -17,6 +19,7 @@ I build systems, not just models. I map out how complex systems will function, s
     <img src="https://img.shields.io/badge/🤗%20HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt="huggingface" />
   </a>
 </p>
+
 ## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dekode1859&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
@@ -25,6 +28,7 @@ I build systems, not just models. I map out how complex systems will function, s
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dekode1859&theme=radical" alt="Streak Stats" />
 </div>
+
 ## Tech Stack
 <details open>
 <summary><b>Agentic & AI Workflows</b></summary>
