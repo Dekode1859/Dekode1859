@@ -8,6 +8,8 @@ I build systems, not just models. I map out how complex systems will function, s
 **Currently Architecting:**
 - **Decentralized Personal Cloud** — A self-hosted architecture running on Proxmox, utilizing a FastAPI gateway and Cloudflare tunnels for secure, scalable personal application hosting.
 
+**Did you find me through this?** [Portfolio](https://dekode.live)
+
 **Reach me at:** **prateekdwivedi30@gmail.com**
 
 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1e0Q4W92NFkfpdNISMKwE4dZiV6S0sEeI/view?usp=sharing)
