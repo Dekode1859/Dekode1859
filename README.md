@@ -12,15 +12,12 @@ I build systems, not just models. I map out how complex systems will function, s
 
 **Reach me at:** **prateekdwivedi30@gmail.com**
 
-**Know about my experiences:** [Resume](https://drive.google.com/file/d/1e0Q4W92NFkfpdNISMKwE4dZiV6S0sEeI/view?usp=sharing)
+**Know about my experiences:** [Resume](https://drive.google.com/file/d/1rVSI2QLnKvdrCYVlQO6pAiUuTpZRpDYf/view?usp=sharing)
 
 ## Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/pratik-dwivedi" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pratik-dwivedi" />
-  </a>
-  <a href="https://huggingface.co/Dekode" target="blank">
-    <img src="https://img.shields.io/badge/🤗%20HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt="huggingface" />
   </a>
 </p>
 
