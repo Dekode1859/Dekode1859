@@ -1,18 +1,50 @@
 <div align="center">
-  <h2>AI Systems Architect | Agentic Workflows & Production Infrastructure</h2>
-  <p><i>Building bespoke, end-to-end AI systems—from local LLM orchestration to scalable cloud deployments.</i></p>
+
+# AI Engineer • Early-Stage Product Builder
+
+### Building production AI systems for fintech — from intelligent workflows to cloud infrastructure.
+
+*"I enjoy turning ambiguous product ideas into reliable systems that people can actually deploy and use."*
+
 </div>
 
+---
+
 ## About Me
-I build systems, not just models. I map out how complex systems will function, scale, and communicate before a single line of code is written. I focus on finding the cleanest, industry-standard ways to orchestrate cloud environments, structure databases, and manage tight resource constraints. Whether it's designing agentic workflows or architecting decentralized infrastructure, I prioritize production-grade reliability and maintainability.
-**Currently Architecting:**
-- **Decentralized Personal Cloud** — A self-hosted architecture running on Proxmox, utilizing a FastAPI gateway and Cloudflare tunnels for secure, scalable personal application hosting.
 
-**Did you find me through this?** [Portfolio](https://dekode.live)
+I'm an AI Engineer with two years of experience building production AI products at an early-stage fintech startup, where I worked across the entire engineering stack—from ML pipelines and LLM applications to backend services, cloud infrastructure, deployment automation, and system architecture.
 
-**Reach me at:** **prateekdwivedi30@gmail.com**
+Working as one of the first engineers meant wearing many hats. Over the past two years I've designed transaction intelligence systems, built AI-powered underwriting and due diligence platforms, deployed scalable backend services on AWS, implemented CI/CD pipelines, orchestrated long-running agent workflows, and developed internal tooling to make AI systems easier to build and maintain.
 
-**Know about my experiences:** [Resume](https://drive.google.com/file/d/1rVSI2QLnKvdrCYVlQO6pAiUuTpZRpDYf/view?usp=sharing)
+I enjoy solving engineering problems where AI is only one piece of a much larger system. My focus is on building software that is reliable, observable, scalable, and easy for other engineers to extend.
+
+---
+
+## Current Focus
+
+- Building local-first AI applications and developer tooling
+- Designing reusable agent execution frameworks
+- Production infrastructure for AI systems
+- Self-hosted cloud infrastructure with Proxmox and Temporal
+- Open-source AI development ecosystem (**AgentOS / OpenCode**)
+
+---
+
+## Interests
+
+- Agentic AI & Workflow Orchestration
+- Distributed Systems
+- Backend Engineering
+- AWS Cloud Infrastructure
+- Developer Experience
+- Production ML Systems
+
+--- 
+**Email** **prateekdwivedi30@gmail.com**
+
+**Experience and my Resume** [LinkedIn](https://www.linkedin.com/in/pratik-dwivedi/)
+
+**Portfolio (currently down for upgrades)** [Portfolio](https://dekode.live)
 
 ## Connect with me
 <p align="center">
