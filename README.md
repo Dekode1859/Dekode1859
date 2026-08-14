@@ -1,6 +1,6 @@
 <div align="center">
 
-# AI Engineer • Early-Stage Product Builder
+# AI Engineer
 
 ### Building production AI systems for fintech — from intelligent workflows to cloud infrastructure.
 
@@ -23,10 +23,8 @@ I enjoy solving engineering problems where AI is only one piece of a much larger
 ## Current Focus
 
 - Building local-first AI applications and developer tooling
-- Designing reusable agent execution frameworks
 - Production infrastructure for AI systems
-- Self-hosted cloud infrastructure with Proxmox and Temporal
-- Open-source AI development ecosystem (**AgentOS / OpenCode**)
+- Open-source AI development ecosystem (**spiritus** / **Persona**)
 
 ---
 
